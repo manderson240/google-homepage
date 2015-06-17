@@ -1,4 +1,5 @@
-# google-homepage
-recreation of Google's homepage
+Project: HTML/CSS via the Odin Project
 
-Doing this via The Odin Project - work in progress
+http://www.theodinproject.com/web-development-101/html-css?ref=lnav
+
+Mini-project - deconstruct and rebuild and existing web page
